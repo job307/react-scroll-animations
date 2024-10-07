@@ -1,0 +1,17 @@
+.progressbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 10px;
+    background: #fe0222;
+    transform-origin: 0%;
+}
+
+.wrapper {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin-bottom: 40vh;
+}

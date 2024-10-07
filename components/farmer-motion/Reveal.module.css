@@ -1,0 +1,15 @@
+.wrapper {
+    position: relative;
+    width: fit-content;
+    overflow: hidden;
+}
+
+.backAnimation {
+    position: absolute;
+    background: lightskyblue;
+    transform: translateY(25%);
+    border-radius: 5px;
+    z-index: 20;
+    width: 100%;
+    height: 75%;
+}
